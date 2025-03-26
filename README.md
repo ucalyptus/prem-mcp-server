@@ -1,4 +1,5 @@
 # Prem MCP Server
+[![smithery badge](https://smithery.ai/badge/@ucalyptus/prem-mcp-server)](https://smithery.ai/server/@ucalyptus/prem-mcp-server)
 
 A Model Context Protocol (MCP) server implementation for [Prem AI](https://premai.io/), enabling seamless integration with Claude and other MCP-compatible clients. This server provides access to Prem AI's powerful features through the MCP interface.
 
@@ -19,6 +20,15 @@ A Model Context Protocol (MCP) server implementation for [Prem AI](https://prema
 
 ## Installation
 
+### Installing via Smithery
+
+To install prem-mcp-server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@ucalyptus/prem-mcp-server):
+
+```bash
+npx -y @smithery/cli install @ucalyptus/prem-mcp-server --client claude
+```
+
+### Installing Manually
 ```bash
 # Using npm
 npm install prem-mcp-server
