@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ucalyptus-prem-mcp-server-badge.png)](https://mseep.ai/app/ucalyptus-prem-mcp-server)
+
 # Prem MCP Server
 [![smithery badge](https://smithery.ai/badge/@ucalyptus/prem-mcp-server)](https://smithery.ai/server/@ucalyptus/prem-mcp-server)
 
